@@ -1,0 +1,18 @@
+body {
+	background: black;
+	background-image: url(https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/91e12c4f-08ed-4fc2-a80c-52a5c424b893);
+}
+
+.star {
+	height: 500px;
+	transform: rotate(7deg);
+	opacity: 0.6;
+}
+
+h1 {
+	color: yellow;
+	position: absolute;
+	left: 540px;
+	bottom: 250px;
+	font-family: Arial, Helvetica, sans-serif;
+}
