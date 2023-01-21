@@ -71,3 +71,10 @@ h1 {
 	top: 130px;
 
 }
+
+.foguete {
+	position: absolute;
+	bottom: 330px;
+	right: 80px;
+	transform: rotate(-29deg);
+}
