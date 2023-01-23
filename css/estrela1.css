@@ -4,15 +4,19 @@ body {
 }
 
 .star {
-	height: 500px;
-	transform: rotate(7deg);
+	height: 850px;
+	position: absolute;
+	top: 300px;
+	left: 30px;
+	transform: rotate(8deg);
 	opacity: 0.6;
 }
 
 h1 {
 	color: yellow;
-	position: absolute;
-	left: 370px;
-	top: 255px;
 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	position: absolute;
+	top: 620px;
+	left: 280px;
 }
