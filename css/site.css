@@ -63,6 +63,12 @@ h1 {
 	top: 180px;
 }
 
+.sol {
+	position: absolute;
+	left: 250px;
+	top: 2000px;
+}
+
 .terra {
 	height: 200px;
 	position: absolute;
