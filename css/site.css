@@ -87,7 +87,32 @@ h1 {
 
 .foguete {
 	position: absolute;
-	bottom: 330px;
+	top: 960px;
 	right: 80px;
 	transform: rotate(-29deg);
+}
+
+.og {
+	height: 250px;
+	position: absolute;
+	right: 80px;
+	top: 720px;
+	transform: rotate(10deg);
+}
+
+h1 {
+	color: gray;
+	font-size: 40px;
+	position: absolute;
+	top: 600px;
+	right: 75px;
+	font-family: sans-serif;
+}
+
+.mensagem {
+	height: 500px;
+	position: absolute;
+	top: 420px;
+	right: 10px;
+	transform: scaleX(-1);
 }
