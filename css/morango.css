@@ -7,13 +7,13 @@ body {
 	height: 100px;
 	position: absolute;
 	top: 380px;
-	right: 250px;
-	transform: rotate(180deg);
+	right: 200px;
+	transform: rotate(190deg);
 }
 
 h1 {
 	font-size: 70px;
-	color: #884FDE;
+	color: #4169E1;
 	font-family: Arial, Helvetica, sans-serif;
 	opacity: 1.0;
 }
@@ -21,6 +21,6 @@ h1 {
 .planeta {
 	height: 700px;
 	position: absolute;
-	top: 150px;
-	left: 220px;
+	top: 20px;
+	left: 150px;
 }
